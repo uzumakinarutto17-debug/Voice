@@ -1,0 +1,6 @@
+{
+  "name": "Tantrum Voiceover Studio",
+  "description": "Voiceover generator and playback studio featuring child tantrum and high-tension vocal performances using Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
